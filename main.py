@@ -12,3 +12,5 @@ for t in tasks:
 remove_last_task()
 add_task("B: replaced last task")
 add_task("B: buy groceries")
+
+print("Run by A")
